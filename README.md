@@ -2,7 +2,7 @@
 
  🐍 Python 全自动 EXE 打包工具
 
-![Python 版本](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)]
+![Python 版本](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)
 [![许可证](https://img.shields.io/badge/License-MIT-green?style=flat-square&logo=opensourceinitiative&logoColor=white)](LICENSE)
 [![](https://img.shields.io/badge/Platform-Windows-lightgray?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 [![GitHub 星标](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)](https://github.com/yourusername/yourrepo)
