@@ -9,12 +9,12 @@
 
 **一款界面精美、功能强大的 Python 源码一键 EXE 打包工具**
 
-![Python EXE 打包工具](<img width="907" height="738" alt="Python-Auto-EXE-Package" src="https://github.com/user-attachments/assets/51d5b673-5a70-42d7-b665-6cf29760bf8c" />
-)
+
 
 </div>
 
 ---
+<img width="907" height="738" alt="Python-Auto-EXE-Package" src="https://github.com/user-attachments/assets/180ff6d4-ef02-408e-83d4-b2c53417ed3c" />
 
 ## 📚 目录
 
