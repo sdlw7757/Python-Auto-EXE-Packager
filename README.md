@@ -1,15 +1,16 @@
-<div align="center">
 
-# 🐍 Python 全自动 EXE 打包工具
 
-[![Python Version](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
-[![License](https://img.shields.io/badge/License-MIT-green?style=flat-square&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Platform](https://img.shields.io/badge/Platform-Windows-lightgray?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)](https://github.com/yourusername/yourrepo)
+ 🐍 Python 全自动 EXE 打包工具
+
+![Python 版本](https://img.shields.io/badge/Python-3.8%2B-blue?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
+[![许可证](https://img.shields.io/badge/License-MIT-green?style=flat-square&logo=opensourceinitiative&logoColor=white)](LICENSE)
+[![](https://img.shields.io/badge/Platform-Windows-lightgray?style=flat-square&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
+[![GitHub 星标](https://img.shields.io/github/stars/yourusername/yourrepo?style=social)](https://github.com/yourusername/yourrepo)
 
 **一款界面精美、功能强大的 Python 源码一键 EXE 打包工具**
 
-![Python EXE 打包工具](https://trae-api-cn.mchost.guru/api/ide/v1/text_to_image?prompt=a%20beautiful%20modern%20software%20interface%20for%20python%20exe%20packaging%20tool%2C%20dark%20theme%2C%20blue%20accent%20colors%2C%20clean%20design&image_size=landscape_16_9)
+![Python EXE 打包工具](<img width="907" height="738" alt="Python-Auto-EXE-Package" src="https://github.com/user-attachments/assets/51d5b673-5a70-42d7-b665-6cf29760bf8c" />
+)
 
 </div>
 
